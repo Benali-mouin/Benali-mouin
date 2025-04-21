@@ -151,7 +151,7 @@
 ```javascript
 const mouin = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS","PHP"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["React", "Next.js"],
   currentFocus: "Building beautiful, responsive web applications",
   funFact: "I believe coding is like magic - you write strange words and amazing things happen!",
